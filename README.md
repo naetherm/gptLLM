@@ -23,4 +23,11 @@ Reimplementation of the papers "Language models are unsupervised multitask learn
   year={2018},
   publisher={OpenAI}
 }
+
+@article{hendrycks2016gaussian,
+  title={Gaussian error linear units (gelus)},
+  author={Hendrycks, Dan and Gimpel, Kevin},
+  journal={arXiv preprint arXiv:1606.08415},
+  year={2016}
+}
 ```
